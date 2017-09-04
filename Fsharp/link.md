@@ -9,3 +9,5 @@
 ## KinectV2 Links
 - [script gestures](https://github.com/Microsoft/prepose)
 
+## C# to Arduino
+- [Interface] (https://playground.arduino.cc/Interfacing/Csharp)
